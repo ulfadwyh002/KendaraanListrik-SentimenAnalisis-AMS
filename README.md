@@ -1,4 +1,4 @@
-**Analisis Sentimen Publik terhadap Tren Kendaraan Listrik sebagai Alternatif Transportasi Ramah Lingkungan**
+**Topik : Analisis Sentimen Publik terhadap Tren Kendaraan Listrik sebagai Alternatif Transportasi Ramah Lingkungan**
 
 **Latar Belakang**
 Kendaraan listrik kini mulai banyak dibicarakan sebagai solusi transportasi yang ramah lingkungan. Pemerintah juga sudah mendorong penggunaannya lewat subsidi dan insentif. Namun, belum semua masyarakat menerima hal ini dengan mudah. Ada yang mendukung karena dianggap lebih bersih dan modern, tapi ada juga yang masih ragu soal harga, daya tahan, dan infrastrukturnya. Sehingga, analisis sentimen di media sosial menjadi penting untuk mengetahui bagaimana tanggapan publik secara lebih luas.
