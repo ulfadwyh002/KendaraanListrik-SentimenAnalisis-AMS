@@ -13,6 +13,6 @@ Kendaraan listrik kini mulai banyak dibicarakan sebagai solusi transportasi yang
 **Sumber Data** : YOUTUBE
 
 **Kata Kunci**
-1. kelemahan dan kelebihan kendaraan listrik
+1. Kelemahan dan kelebihan kendaraan listrik
 2. Kendaraan listrik ramah lingkungan
 3. Subsidi pemerintah untuk kendaraan listrik: layak atau tidak?
