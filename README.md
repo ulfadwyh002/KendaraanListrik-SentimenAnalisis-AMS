@@ -1,3 +1,5 @@
+![Wourcloud](Wourcloud.jpeg)
+
 # Analisis Sentimen Publik terhadap Tren Kendaraan Listrik sebagai Alternatif Transportasi Ramah Lingkungan
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
